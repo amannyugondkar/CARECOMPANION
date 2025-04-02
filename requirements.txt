@@ -1,0 +1,4 @@
+flask
+flask-cors
+pickle5
+gunicorn
